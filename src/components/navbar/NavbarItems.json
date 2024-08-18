@@ -1,0 +1,23 @@
+[
+    {
+      "id": 1,
+      "label": "About",
+      "url": "/about"
+    },
+    {
+      "id": 2,
+      "label": "Skills",
+      "url": "/skills"
+    },
+    {
+      "id": 4,
+      "label": "Projects",
+      "url": "/projects"
+    },
+    {
+      "id": 5,
+      "label": "Contact",
+      "url": "/contact"
+    }
+  ]
+  
